@@ -10,10 +10,7 @@
 - Server: AWS EC2
 
 ### Docs
-URL
-
-### Demo
-URL
+- http://hj2server.ddns.net/files/portfolio_hj-profol.pdf
 
 ### Date
 2019.03 ~ 2019.06
