@@ -9,8 +9,5 @@
 - FrontEnd: HTML, CSS, BootStrap
 - Server: AWS EC2
 
-### Docs
-- http://hj2server.ddns.net/files/portfolio_hj-profol.pdf
-
 ### Date
 2019.03 ~ 2019.06
